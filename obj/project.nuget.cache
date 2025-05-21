@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgRk0wCdyNQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\TibiaLegacyDaniel\\TibiaLegacy\\TibiaLegacy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\inflector\\1.0.0\\inflector.1.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\jquery.ui.combined\\1.9.2\\jquery.ui.combined.1.9.2.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\jtable\\2.4.0\\jtable.2.4.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Inflector 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Inflector",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
