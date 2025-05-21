@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TibiaLegacy", "TibiaLegacy\TibiaLegacy.csproj", "{1C636505-A2E5-415A-9CB0-F60D763FE3A4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3} = {91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TibiaLegacyBusiness", "TibiaLegacyBusiness\TibiaLegacyBusiness.csproj", "{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C636505-A2E5-415A-9CB0-F60D763FE3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C636505-A2E5-415A-9CB0-F60D763FE3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C636505-A2E5-415A-9CB0-F60D763FE3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C636505-A2E5-415A-9CB0-F60D763FE3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A78FE0-FEA7-4DFB-BFDD-A8460F6509A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5F832D-B674-44EF-8F98-C51E18AD7C1C}
+	EndGlobalSection
+EndGlobal
